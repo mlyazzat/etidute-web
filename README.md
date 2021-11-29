@@ -1,2 +1,1 @@
-# etidute-web-
-Web Front: final project 
+# etidute-web
